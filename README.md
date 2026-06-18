@@ -1,137 +1,124 @@
 <div align="center">
 
-```
-   ▄▄▄       ▓█████▄  ▄▄▄       ███▄ ▄███▓
-  ▒████▄     ▒██▀ ██▌▒████▄    ▓██▒▀█▀ ██▒
-  ▒██  ▀█▄   ░██   █▌▒██  ▀█▄  ▓██    ▓██░
-  ░██▄▄▄▄██  ░▓█▄   ▌░██▄▄▄▄██ ▒██    ▒██
-   ▓█   ▓██▒ ░▒████▓  ▓█   ▓██▒▒██▒   ░██▒
-   ▒▒   ▓▒█░  ▒▒▓  ▒  ▒▒   ▓▒█░░ ▒░   ░  ░
-    ▒   ▒▒ ░  ░ ▒  ▒   ▒   ▒▒ ░░  ░      ░
-    ░   ▒     ░ ░  ░   ░   ▒   ░      ░
-        ░  ░    ░          ░  ░       ░
-              ░
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e2327&height=200&section=header&text=Adam%20Saber&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20met%20een%20business-brein&descAlignY=58&descSize=18)
 
-### `> Adam Saber — Software Developer met een business-brein 🧠💼`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Code+die+business+begrijpt;Full-stack+%2B+AI+fraud+detection;Laravel+%2B+React+SaaS+dashboards;Richting+Business+Development+%26+Partnerships;International+Business+(HBO)+%E2%86%92+internationaal)](https://adamsaber-mr.github.io/portofolio_mr/)
 
-**Code is mijn gereedschap. Strategie is mijn richting.**
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdamSaber-mr&label=Profiel%20bezoekers&color=0e75b6&style=flat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=flat&logo=github)](https://adamsaber-mr.github.io/portofolio_mr/)
-![Location](https://img.shields.io/badge/Gouda-NL-orange?style=flat&logo=googlemaps)
+[![Portfolio](https://img.shields.io/badge/portfolio-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://adamsaber-mr.github.io/portofolio_mr/)
+[![GitHub](https://img.shields.io/badge/GitHub-AdamSaber--mr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdamSaber-mr)
+![Location](https://img.shields.io/badge/Gouda-NL-orange?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## `whoami`
+## 🚀 What I'm shipping
 
-```bash
-$ cat /home/adam/profile.json
-```
-```json
-{
-  "naam": "Adam Saber",
-  "leeftijd": 18,
-  "locatie": "Gouda, NL 🇳🇱",
-  "opleiding": "Software Development niveau 4 @ Grafisch Lyceum Rotterdam",
-  "leerjaar": 2,
-  "machine": "macOS 🍎",
-  "huidige_richting": "Code die business begrijpt",
-  "echte_richting": "Business Development & Partnerships",
-  "volgende_stap": "International Business (HBO, EN) → internationale senior rol",
-  "principe": "Eerlijk, halal, en niet middelmatig.",
-  "status": "Building. Always."
-}
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Ik bouw aan de **intersectie van technologie en business**. Dashboards, analytics tools, en systemen met échte business logica.
-> Fulltime achter de code zitten is niet wie ik ben — mijn energie ligt in **mensen begrijpen, bedrijven analyseren, kansen zien, en vertrouwen opbouwen.**
-> Code is hoe ik leer denken zoals een bedrijf denkt.
+### [Ai-Fraud-Detection](https://github.com/AdamSaber-mr/Ai-Fraud-Detection)
+Full-stack AI web app die frauduleuze transacties detecteert met een Isolation Forest model. Mijn MBO-minor eindproduct.
+
+`Python` `scikit-learn` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [SaaS-Dashboard](https://github.com/AdamSaber-mr/SaaS-Dashboard)
+Mini-SaaS beheertool voor klanten, abonnementen en terugkerende omzet — MRR, NRR, churn & Quick Ratio.
+
+`Laravel` `React` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Business-Anatomy](https://github.com/AdamSaber-mr/Business-Anatomy)
+Interactief BI-project — een bedrijf ontleed tot op het bot.
+
+`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [rapid_cars](https://github.com/AdamSaber-mr/rapid_cars)
+Car rental website met een strak, type-safe front-end.
+
+`TypeScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `🛠️ tech-stack --list`
+## 🛠 Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frameworks & Tools**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## `📂 ls -la ~/projects`
-
-| Project | Stack | Wat het doet |
-|--------|-------|--------------|
-| 🕵️ **[Ai-Fraud-Detection](https://github.com/AdamSaber-mr/Ai-Fraud-Detection)** | `Python` `Isolation Forest` `JS` | Full-stack AI web app die frauduleuze transacties detecteert. MBO-minor eindproduct. |
-| 📊 **[SaaS-Dashboard](https://github.com/AdamSaber-mr/SaaS-Dashboard)** | `Laravel` `React` `JS` | Mini-SaaS beheertool: klanten, abonnementen & terugkerende omzet (MRR / NRR / churn / Quick Ratio). |
-| 🧬 **[Business-Anatomy](https://github.com/AdamSaber-mr/Business-Anatomy)** | `JavaScript` | Interactief BI-project — een bedrijf ontleed tot op het bot. |
-| 🚗 **[rapid_cars](https://github.com/AdamSaber-mr/rapid_cars)** | `TypeScript` | Car rental website. |
-| 🍜 **[Ramen_DeliveryApp](https://github.com/AdamSaber-mr/Ramen_DeliveryApp)** | `CSS` `HTML` | Delivery app voor het Yume ramen restaurant. |
-| 🍳 **[Recipe_Website](https://github.com/AdamSaber-mr/Recipe_Website)** | `PHP` | Beroepsopdracht voor school. |
-
----
-
-## `📈 git log --stat`
-
-<div align="center">
-
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamSaber-mr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSaber-mr&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AdamSaber-mr&theme=tokyonight&hide_border=true)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## `🧭 cat roadmap.md`
+## 📊 GitHub Stats
 
-```mermaid
-graph LR
-    A[MBO Software Dev<br/>niveau 4] --> B[HBO International<br/>Business 🌍]
-    B --> C[Business Development<br/>& Partnerships]
-    C --> D[Internationale<br/>senior rol]
-    style A fill:#0e75b6,stroke:#fff,color:#fff
-    style B fill:#FF2D20,stroke:#fff,color:#fff
-    style C fill:#F7931E,stroke:#fff,color:#fff
-    style D fill:#1e2327,stroke:#fff,color:#fff
-```
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdamSaber-mr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSaber-mr&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=AdamSaber-mr&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## `💭 echo $PHILOSOPHY`
+## 📁 Selected Projects
 
-> Ik wil een sterke, rustige en principiële man zijn.
-> Iemand die goed communiceert, vertrouwen uitstraalt, strategisch denkt — en eerlijk en halal handelt.
->
-> Niet middelmatig. Wel verantwoordelijk. Stabiel — financieel én moreel — voor mezelf en mijn familie.
+| Project | Description | Stack |
+|---|---|---|
+| [**Ai-Fraud-Detection**](https://github.com/AdamSaber-mr/Ai-Fraud-Detection) | AI app die fraude detecteert met Isolation Forest | Python · scikit-learn · JS |
+| [**SaaS-Dashboard**](https://github.com/AdamSaber-mr/SaaS-Dashboard) | Abonnement & revenue tool — MRR / NRR / churn | Laravel · React |
+| [**Business-Anatomy**](https://github.com/AdamSaber-mr/Business-Anatomy) | Interactief BI-project | JavaScript |
+| [**rapid_cars**](https://github.com/AdamSaber-mr/rapid_cars) | Car rental website | TypeScript |
+| [**Ramen_DeliveryApp**](https://github.com/AdamSaber-mr/Ramen_DeliveryApp) | Delivery app voor Yume ramen restaurant | CSS · HTML |
+| [**Recipe_Website**](https://github.com/AdamSaber-mr/Recipe_Website) | Recepten-site, beroepsopdracht school | PHP |
+
+→ [Alle projecten op GitHub](https://github.com/AdamSaber-mr) · [Portfolio](https://adamsaber-mr.github.io/portofolio_mr/)
 
 ---
 
 <div align="center">
 
-### `connect --with adam`
+**18 · Gouda, Netherlands · Software Development niveau 4 @ Grafisch Lyceum Rotterdam**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1e2327?style=for-the-badge)](https://adamsaber-mr.github.io/portofolio_mr/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdamSaber-mr)
+🧭 *Bouwt code om business te begrijpen — richting Business Development & Partnerships*
 
-`"Code begrijpen om business te begrijpen."`
+[![Profile Views](https://komarev.com/ghpvc/?username=AdamSaber-mr&label=Profiel%20bezoekers&color=0e75b6&style=for-the-badge)](https://github.com/AdamSaber-mr)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0e75b6&height=100&section=footer)
